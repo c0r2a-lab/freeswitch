@@ -1,21 +1,3 @@
-/*
- * SpanDSP - a series of DSP components for telephony
- *
- * g711.c - A-law and u-law transcoding routines
- *
- * Written by Steve Underwood <steveu@coppice.org>
- *
- * Copyright (C) 2006 Steve Underwood
- *
- *  Despite my general liking of the GPL, I place this code in the
- *  public domain for the benefit of all mankind - even the slimy
- *  ones who might try to proprietize my work and use it to my
- *  detriment.
- *
- * $Id: g711.c,v 1.1 2006/06/07 15:46:39 steveu Exp $
- */
-
-/*! \file */
 
 #ifdef HAVE_CONFIG_H
 #include <config.h>
